@@ -18,3 +18,4 @@ My tools and practices to create a good and cool development cycle
 ### JS
 #### Jest
 * https://moshfeu.medium.com/test-json-schema-with-ajv-and-jest-c1d2984234c9
+* https://www.npmjs.com/package/jest-json-schema
